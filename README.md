@@ -1,13 +1,25 @@
-# fraternal-mobile
+# scaffold-eth-mobile
+
+## Stack
+- React native
+- Recoil [State management]
+- React Navigation
+- React Native Paper [UI library]
+- Wallet connect
 
 
-<img src="https://media.giphy.com/media/OnGsnuMBEpwq1yhCyv/giphy.gif" width="100%">
+## Use template
+Click use template
+Run `yarn` to install dependencies
 
-# General
 
-This mobile app is built with the following tech stack:
+### To run in ios
+2. `npx pod-install ios`
+3. yarn `ios`
+### Change LaunchScreen and App's icons
 
-- React Native + Typescript
-- Wallet-connect
-- Ethers'js
+### Rename the app
+`npx react-native-rename <newName>`
 
+## To Do
+[ ] Use burner wallet
