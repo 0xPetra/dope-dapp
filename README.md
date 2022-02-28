@@ -1,4 +1,4 @@
-# scaffold-eth-mobile
+# Dope-Dapp
 
 ## Stack
 - React native
